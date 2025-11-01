@@ -19,3 +19,6 @@ Familiarizarse con:
 - Git
 - GitHub
 - GitLab
+
+## Cambios segun la practica 
+Nombre: Alejandro Torres 
