@@ -18,3 +18,4 @@ Familiarizarse con:
 
 - Git
 - GitHub
+- GitLab
