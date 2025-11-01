@@ -1,0 +1,5 @@
+##Biografia Personal 
+Autor: Alejandro Torres
+Sobre mí
+Soy estudiante de Análisis y Desarrollo de Software en el SENA. Llevo aproximadamente 3 meses adentrándome en el mundo de la programación y cada día descubro algo nuevo que me motiva a seguir aprendiendo.
+Me interesa explorar diferentes ámbitos del desarrollo de software y poder trabajar profesionalmente en este campo. Fuera del código, disfruto caminar de noche, conectar con la naturaleza y estar en soledad o con una grata compañia. Para mí, la mejor combinación es caminar en la noche escuchando música.
