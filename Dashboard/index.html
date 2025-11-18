@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Administrativo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="dashboard">
+        
+        <header class="header">
+            <div class="header-content">
+                <h1>📊 Dashboard Administrativo</h1>
+                <div class="user-info">
+                    <span>👤 Admin</span>
+                </div>
+            </div>
+        </header>
+
+        <aside class="sidebar">
+            <nav>
+                <ul>
+                    <li class="active">🏠  Inicio</li>
+                    <li>👥  Usuarios</li>
+                    <li>📦  Productos</li>
+                    <li>💰  Ventas</li>
+                    <li>⚙️  Configuración</li>
+                </ul>
+            </nav>
+        </aside>
+
+        <main class="main">
+            
+            <div class="tarjeta tarjeta-grande">
+                <h2>📈 Estadísticas Generales</h2>
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <span class="stat-label">Ingresos Totales</span>
+                        <span class="stat-value">$125,450</span>
+        
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Órdenes</span>
+                        <span class="stat-value">1,567</span>
+                        
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Clientes</span>
+                        <span class="stat-value">892</span>
+                        
+                    </div>
+                </div>
+            </div>
+
+            <div class="tarjeta">
+                <div class="tarjeta-header">
+                    <h2>💵 Ventas del Mes</h2>
+                    <span class="badge badge-success">Activo</span>
+                </div>
+                <p class="tarjeta-valor">$25,500</p>
+                <p class="tarjeta-subtitulo">+15% vs mes anterior</p>
+                <div class="progress-bar">
+                    <div class="progress-fill" style="width: 75%"></div>
+                </div>
+            </div>
+
+            <div class="tarjeta">
+                <div class="tarjeta-header">
+                    <h2>👥 Usuarios Activos</h2>
+                    <span class="badge badge-info">Online</span>
+                </div>
+                <p class="tarjeta-valor">1,234</p>
+                <p class="tarjeta-subtitulo">567 conectados ahora</p>
+                <div class="progress-bar">
+                    <div class="progress-fill progress-blue" style="width: 60%"></div>
+                </div>
+            </div>
+
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2025 Dashboard Admin | Todos los derechos reservados | v1.0.2</p>
+        </footer>
+
+    </div>
+</body>
+</html>
